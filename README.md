@@ -48,17 +48,6 @@ The dataset is sourced from Kaggle: [Autism Screening Dataset for Adults](https:
 - Logistic Regression model shows promising results in predicting ASD cases
 - Detailed performance metrics are available in the confusion matrix and classification report
 
-## Usage
-1. Clone the repository
-2. Install required packages:
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn plotly
-```
-3. Run the Jupyter notebook or Python script:
-```bash
-python asd.py
-```
-
 ## Model Performance
 The Logistic Regression model's performance metrics include:
 - Confusion Matrix visualization
